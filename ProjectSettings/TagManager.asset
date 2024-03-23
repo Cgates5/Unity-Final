@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Clouds
+    uniqueID: 3183629633
+    locked: 0
+  - name: Sun
+    uniqueID: 420172907
+    locked: 0
+  - name: Body
+    uniqueID: 3270162777
+    locked: 0
+  - name: Legs
+    uniqueID: 3141014557
+    locked: 0
+  - name: Head
+    uniqueID: 2632688907
+    locked: 0
+  - name: Mouth
+    uniqueID: 63442549
+    locked: 0
+  - name: Background
+    uniqueID: 1388960715
+    locked: 0
